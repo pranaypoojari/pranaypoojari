@@ -1,116 +1,94 @@
-<h1 align="center">Hi, I'm Pranay Poojari</h1>
+<h1 align="center">PRANAY POOJARI</h1>
 
 <p align="center">
-  <b>AI/ML & Data Engineering</b> · M.Sc. Big Data Analytics<br/>
-  I build data pipelines, ML models and dashboards that turn raw data into decisions.
+  <a href="https://pranaypoojari.github.io/portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F0433A&center=true&vCenter=true&width=560&lines=AI%2FML+%26+Data+Engineering;Pipelines%2C+models+and+dashboards;I+also+build+the+web+apps+around+them" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://pranaypoojari.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/pranay-poojari-b262b024b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pranaypoojari10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pranaypoojari&style=flat-square&color=64748b&label=Profile+views" alt="Profile views" />
+  M.Sc. Big Data Analytics · Mumbai, India · Open to data and ML roles
 </p>
 
----
+<p align="center">
+  <a href="https://pranaypoojari.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-F0433A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pranay-poojari-b262b024b"><img src="https://img.shields.io/badge/LinkedIn-1a1111?style=for-the-badge&logo=linkedin&logoColor=F0433A" alt="LinkedIn" /></a>
+  <a href="mailto:pranaypoojari10@gmail.com"><img src="https://img.shields.io/badge/Email-1a1111?style=for-the-badge&logo=gmail&logoColor=F0433A" alt="Email" /></a>
+</p>
 
-### 👨‍💻 Right now
-
-- 🔭 **AI/ML Intern** at **Debox Consulting**, Mumbai *(Feb 2026 – Present)*
-- 🎓 Finishing my **M.Sc. in Big Data Analytics** at Jai Hind College *(2024 – 2026)*
-- 🌱 Going deeper into **distributed ETL with Spark** and **recommender systems**
-- 📫 Open to data / ML roles. The fastest way to reach me is email or LinkedIn
 
 ---
 
-### 🧰 Tech Stack
+## Now
 
-| Area | What I use |
+| | |
 | :--- | :--- |
-| **Languages** | Python, SQL, Scala, R |
-| **Big Data & ETL** | Apache Spark, PySpark, Hadoop, ETL pipelines, data warehousing |
-| **ML / AI** | Scikit-learn, Pandas, NumPy, NLP, recommender systems |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **BI & Viz** | Power BI, Tableau, Matplotlib, Seaborn |
-| **Web** | HTML, CSS, JavaScript, GitHub Pages |
-| **Tools** | Git, Jupyter |
+| **Working** | AI/ML Intern at **Debox Consulting**, Mumbai (Feb 2026 to present) |
+| **Studying** | **M.Sc. Big Data Analytics**, Jai Hind College (2024 to 2026) |
+| **Learning** | Distributed ETL with Spark, and recommender systems |
+| **Looking for** | Data and ML roles. Email or LinkedIn is the quickest way to reach me |
 
 ---
 
-### 🚀 Featured Projects
+## Selected work
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🎬 Movie Recommender</h4>
-      <p>Content-based engine using <b>cosine similarity</b>, with similarity distributions visualised.</p>
-      <sub><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛍️ Consumer Pattern Analysis</h4>
-      <p>EDA plus automated cleaning pipelines and interactive dashboards showing purchasing trends.</p>
-      <sub><code>Power BI</code> <code>SQL</code> <code>Python</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📊 Brand Revenue Analysis</h4>
-      <p>Multi-brand revenue comparison with dashboards built to support business decisions.</p>
-      <sub><code>SQL</code> <code>Power BI</code></sub>
-    </td>
-  </tr>
-</table>
+### Data and ML
 
-<p align="center">
-  <a href="https://pranaypoojari.github.io/portfolio/"><b>See all projects and my resume on the portfolio →</b></a>
-</p>
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **Movie Recommender** | Content-based engine using cosine similarity, with similarity distributions visualised | `Python` `Scikit-learn` `Pandas` `NumPy` |
+| **Consumer Pattern Analysis** | EDA, automated cleaning and interactive dashboards showing purchasing trends | `Power BI` `SQL` `Python` |
+| **Brand Revenue Analysis** | Multi-brand revenue comparison delivered as dashboards for business decisions | `SQL` `Power BI` |
 
----
+More notebooks: [Machine Learning](https://github.com/pranaypoojari/Machine-Learning-1) · [Time Series (R)](https://github.com/pranaypoojari/Time-series-analysis) · [Market Basket](https://github.com/pranaypoojari/Market-Basket-Analysis) · [PCA](https://github.com/pranaypoojari/Principal-Component-Analysis) · [Regularisation](https://github.com/pranaypoojari/Regularisation) · [Web Scraping](https://github.com/pranaypoojari/Web-Scrapping)
 
-### 🌐 Web Projects
+### Web apps
 
 | Project | What it is |
 | :--- | :--- |
-| [**ReliveTheYear**](https://github.com/pranaypoojari/ReliveTheYear) | A nostalgia time machine for 2006 to 2024, built around a wooden radio, CRT TV and cassette deck |
+| [**ReliveTheYear**](https://github.com/pranaypoojari/ReliveTheYear) | A nostalgia time machine for 2006 to 2024: wooden radio, CRT TV and cassette deck |
 | [**WhereWasI**](https://github.com/pranaypoojari/WhereWasI) | A zero-spoiler recap engine for TV series, movies and anime |
 | [**The 3AM Club**](https://github.com/pranaypoojari/3amclub) | A midnight social radar and lowkey dating web app for night owls |
 
 ---
 
-### 💼 Experience
+## Stack
 
-<details open>
-<summary><b>AI/ML Intern · Debox Consulting</b> <i>(Feb 2026 – Present)</i></summary>
-<br/>
+| Area | Tools |
+| :--- | :--- |
+| **Languages** | Python · SQL · Scala · R · JavaScript |
+| **Big data and ETL** | Apache Spark · PySpark · Hadoop · data warehousing |
+| **ML and AI** | Scikit-learn · Pandas · NumPy · NLP · recommender systems |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **BI and visuals** | Power BI · Tableau · Matplotlib · Seaborn |
+| **Web** | HTML · CSS · JavaScript · GitHub Pages |
 
+---
+
+## Experience
+
+**AI/ML Intern, Debox Consulting** · *Feb 2026 to present*
 - Built and deployed ML models for classification and recommendation tasks
 - Automated data preprocessing pipelines with Python and Pandas
 - Helped design and run ETL workflows for structured and semi-structured data
 - Worked with cross-functional teams to deliver data-driven insights
 
-</details>
+**Education:** M.Sc. Big Data Analytics, Jai Hind College (2024 to 2026) · B.Sc. Data Science, KES' Shroff College (2020 to 2023)
 
-<details>
-<summary><b>Education & Certifications</b></summary>
-<br/>
-
-- **M.Sc. Big Data Analytics**, Jai Hind College, Mumbai *(2024 – 2026)*
-- **B.Sc. Data Science**, KES' Shroff College, Mumbai *(2020 – 2023)*
-- **Certifications:** Big Data Computing · Recommender Systems · Advanced Excel · Digital Marketing
-
-</details>
+**Certifications:** Big Data Computing · Recommender Systems · Advanced Excel · Digital Marketing
 
 ---
 
-### 📈 GitHub Activity
+## GitHub activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pranaypoojari&show_icons=true&hide_border=true&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9&text_color=64748b" alt="GitHub stats" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypoojari&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=64748b" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pranaypoojari&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0433A&icon_color=F0433A&text_color=8b8b8b" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypoojari&layout=compact&hide_border=true&bg_color=00000000&title_color=F0433A&text_color=8b8b8b" alt="Top languages" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Always up for a chat about data, ML or a good dashboard.</i><br/>
-  <a href="mailto:pranaypoojari10@gmail.com">pranaypoojari10@gmail.com</a>
+  <a href="mailto:pranaypoojari10@gmail.com"><b>pranaypoojari10@gmail.com</b></a><br/>
+  <sub>Always up for a chat about data, ML or a good dashboard.</sub>
 </p>
