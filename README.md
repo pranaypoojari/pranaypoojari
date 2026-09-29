@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://pranaypoojari.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/PranayPoojari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pranay-poojari-b262b024b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pranaypoojari10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=pranaypoojari&style=flat-square&color=64748b&label=Profile+views" alt="Profile views" />
 </p>
@@ -25,14 +25,6 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,scala,r,postgres,mysql,mongodb,spark,hadoop,pandas,numpy,sklearn,git,jupyter,powerbi,tableau&perline=8" alt="Tech stack" />
-</p>
-
-<details>
-<summary><b>See the full breakdown</b></summary>
-<br/>
-
 | Area | What I use |
 | :--- | :--- |
 | **Languages** | Python, SQL, Scala, R |
@@ -40,9 +32,8 @@
 | **ML / AI** | Scikit-learn, Pandas, NumPy, NLP, recommender systems |
 | **Databases** | PostgreSQL, MySQL, MongoDB |
 | **BI & Viz** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Web** | HTML, CSS, JavaScript, GitHub Pages |
 | **Tools** | Git, Jupyter |
-
-</details>
 
 ---
 
@@ -71,6 +62,16 @@
 <p align="center">
   <a href="https://pranaypoojari.github.io/portfolio/"><b>See all projects and my resume on the portfolio →</b></a>
 </p>
+
+---
+
+### 🌐 Web Projects
+
+| Project | What it is |
+| :--- | :--- |
+| [**ReliveTheYear**](https://github.com/pranaypoojari/ReliveTheYear) | A nostalgia time machine for 2006 to 2024, built around a wooden radio, CRT TV and cassette deck |
+| [**WhereWasI**](https://github.com/pranaypoojari/WhereWasI) | A zero-spoiler recap engine for TV series, movies and anime |
+| [**The 3AM Club**](https://github.com/pranaypoojari/3amclub) | A midnight social radar and lowkey dating web app for night owls |
 
 ---
 
